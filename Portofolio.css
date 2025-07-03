@@ -283,6 +283,13 @@ nav .penyimpanan li a {
     border-radius: 7px;
 }
 
+nav .penyimpanan ul li a.active {
+    color: #4e3318;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
 #check {
     display: none;
 }
