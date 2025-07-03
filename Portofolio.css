@@ -51,6 +51,13 @@ nav .penyimpanan ul li a:hover {
     border-radius: 10px;
 }
 
+nav .penyimpanan ul li a.active {
+    color: #4e3318;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
 nav .penyimpanan #check {
     display: none;
 }
